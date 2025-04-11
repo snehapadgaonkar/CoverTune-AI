@@ -1,5 +1,8 @@
 # 🎵 CoverTune: AI-Powered Album Cover Generator from Audio
 
+
+![CoverTune Demo](img.png)
+
 **CoverTune** is a multimodal AI pipeline that transforms short music clips into stylized album cover art. By combining speech recognition, language detection, translation, prompt engineering, and image synthesis, it offers a seamless, end-to-end system for artists and musicians to visualize their sound — no design skills needed.
 
 ---
@@ -50,5 +53,7 @@ git clone https://github.com/snehapadgaonkar/CoverTune-AI.git
 #💻 Run the App
 python app.py
 ```
-▶️ Or Run in Google Colab
+---
+
+▶️ Or Run in Google Colab\
 Use the pre-configured Colab Notebook for easier GPU-accelerated testing in-browser using aipro.ipynb file
